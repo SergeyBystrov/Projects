@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GeekBrains free.iml" filepath="$PROJECT_DIR$/.idea/GeekBrains free.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson1/Lesson1.iml" filepath="$PROJECT_DIR$/Lesson1/Lesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_2/Lesson_2.iml" filepath="$PROJECT_DIR$/Lesson_2/Lesson_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_3/Lesson_3.iml" filepath="$PROJECT_DIR$/Lesson_3/Lesson_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_6/Lesson_6.iml" filepath="$PROJECT_DIR$/Lesson_6/Lesson_6.iml" />
+    </modules>
+  </component>
+</project>
